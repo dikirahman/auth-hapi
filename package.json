@@ -1,0 +1,32 @@
+{
+  "name": "auth-hapi",
+  "version": "1.0.0",
+  "description": "REST API for Authentications using hapijs and hapi/jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikirahman/auth-hapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "jwt",
+    "authentication"
+  ],
+  "author": "Diki Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikirahman/auth-hapi/issues"
+  },
+  "homepage": "https://github.com/dikirahman/auth-hapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/jwt": "^2.1.0",
+    "nanoid": "^3.1.30"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
