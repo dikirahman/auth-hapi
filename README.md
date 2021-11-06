@@ -1,6 +1,5 @@
 # auth-hapi
-## Starter Template
-Starter template authentication Hapi and JWT
+### Started Hapi and JWT Authentication
 
 ### Installation
     $ git clone https://github.com/dikirahman/auth-hapi.git
